@@ -8,6 +8,7 @@ import requests
 import urllib.request
 from pyfiglet import Figlet
 import argparse
+from clint.textui import puts,colored,indent
 
 
 
@@ -29,7 +30,7 @@ def mainT(url):
         """
         opener = urllib.request.build_opener()
         opener.addheaders = [('User-agent', 'Mozilla/5.0')]
-        r = opener.open(url)
+        r = opener.open('https://www.asos.com/')
         urlT = url.split('//')
         page = r.read()
         p = page.decode("UTF-8")
@@ -88,21 +89,21 @@ def mainT(url):
                 print('the payload is reflected on this page ... the site is potentially XSS vulnerable')
                 rep = input('Do you want to enter another url ?(y or n) ')
                 if rep == "Y" or rep == "y":
-                        rl = input('Please enter an another url ?(https://www.example.com) :')
+                        rl = input(colored.green('Please enter an another url ?(https://www.example.com) :'))
                         mainT(rl)
                         
                         
                         
                 
         else :
-                print('the payload is not reflexted on this page...Not vulnerable')
+                print(colored.red('the payload is not reflexted on this page...Not vulnerable'))
                           
                         
                 
 
 
 f = Figlet(font='slant')
-print(f.renderText('XBlue'))
+print(colored.blue(f.renderText('XBlue')))
 parser = argparse.ArgumentParser()
 parser.add_argument("-u", "--url", help="specify the url",type=str)
 args = parser.parse_args()
