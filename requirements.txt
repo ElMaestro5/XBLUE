@@ -1,0 +1,6 @@
+requests
+pyfiglet
+clint.textui
+argparse
+bs4
+urllib.request
