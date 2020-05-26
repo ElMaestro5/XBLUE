@@ -27,7 +27,7 @@ Subscribe example :
 Basic use :
 
 ```bash
-python3 xblue.py <urm>
+python3 xblue.py <url>
 ```
 
 ## Options
