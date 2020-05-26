@@ -33,7 +33,7 @@ Subscribe example :
 Basic use :
 
 ```bash
-python3 xblue.py <url>
+python3 XBlue.py <url>
 ```
 
 ## Options
