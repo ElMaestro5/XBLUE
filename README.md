@@ -22,7 +22,7 @@ Subscribe example :
 
 1. `git clone https://github.com/hug016/XBLUE.git`
 2. `cd xblue`
-3. `pip3 -r install requirements.txt`
+3. `pip3 install -r requirements.txt`
 
 ## Usage
 
