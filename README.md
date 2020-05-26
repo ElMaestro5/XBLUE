@@ -41,4 +41,4 @@ python3 xblue.py <url>
 `-u ` or `--url`: Specified the url website.
 
 
-#### Thank's
+#### Thank's. The project is under development
