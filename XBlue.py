@@ -30,7 +30,7 @@ def mainT(url):
         """
         opener = urllib.request.build_opener()
         opener.addheaders = [('User-agent', 'Mozilla/5.0')]
-        r = opener.open('https://french.alibaba.com')
+        r = opener.open(url)
         urlT = url.split('//')
         page = r.read()
         p = page.decode("UTF-8")
