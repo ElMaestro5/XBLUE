@@ -6,3 +6,5 @@ XBlue is a simple XSS program open source , that inject a payload to see if it's
 ## Screenshots
 
 Subscribe example :
+
+![subscribe example](./image/Main.png)
