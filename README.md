@@ -11,7 +11,7 @@ Subscribe example :
 
   1. Found vulnerabilities 
 
-![subscribe example](./image/found.png)
+![subscribe example](./image/Found.png)
 
   2. Not Found vulnerabilities 
   
