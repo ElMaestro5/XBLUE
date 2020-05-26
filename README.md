@@ -11,11 +11,9 @@ Subscribe example :
 
   1. Found vulnerabilities 
 
-![subscribe example](./image/Found.png)
+![subscribe example](./image/Main.png)
 
-  2. Not Found vulnerabilities 
-  
-  ![subscribe example](./image/NotFound.png)
+
 
 
 ## Installation
