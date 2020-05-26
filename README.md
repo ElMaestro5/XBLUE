@@ -9,7 +9,13 @@ XBlue is a simple XSS program open source , that inject a payload to see if it's
 
 Subscribe example :
 
-![subscribe example](./image/Main.png)
+  1. Found vulnerabilities 
+
+![subscribe example](./image/found.png)
+
+  2. Not Found vulnerabilities 
+  
+  ![subscribe example](./image/NotFound.png)
 
 
 ## Installation
