@@ -13,7 +13,7 @@ Subscribe example :
 
 ![subscribe example](./image/Main.png)
 
-  2. Found vulnerabilities 
+  2. Not Found vulnerabilities 
 
 ![subscribe example](./image/notfound.png)
 
