@@ -7,7 +7,7 @@ XBlue is a simple XSS program open source , that inject a payload to see if it's
 
 -------------------
 
-Subscribe example :
+ Examples :
 
   1. Found vulnerabilities 
 
