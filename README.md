@@ -49,4 +49,4 @@ python3 XBlue.py <url>
 `-u ` or `--url`: Specified the url website.
 
 
-#### Thank's. The project is under development
+#### Thank's. The project is under development :smile:
