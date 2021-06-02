@@ -9,4 +9,4 @@ pyfiglet==0.7
 requests==2.23.0
 six==1.12.0
 soupsieve==2.0.1
-urllib3==1.25.9
+urllib3==1.26.5
